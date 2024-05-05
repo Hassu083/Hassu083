@@ -82,18 +82,17 @@ After understanding the chemistry of bit now i am curious about how qubits chang
 
 
  ## Github Stats📈:
+  <p align="center">
+   <a href="https://github.com/Hassu083"> 
+     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hassu083&theme=dark&hide_border=true" /> 
+   </a>  
+ </p>
 <p align="center">
     <a href="https://github.com/Hassu083">
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hassu083&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hassu083&layout=compact&&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
-
- <p align="center">
-   <a href="https://github.com/Hassu083"> 
-     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hassu083&theme=dark&hide_border=true" /> 
-   </a>  
- </p>
 
 <br>
 
