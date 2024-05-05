@@ -12,7 +12,7 @@
 </p>
 
 ## About me🚀:
-Hello! I'm Hasnain Ahmed, a Computer Engineer based in Pakistan👋.
+Hello! I'm Hasnain Ahmed, a Computer Engineer based in Pakistan.
 After understanding the chemistry of bit now i am curious about how qubits change the world of computation
 
 
@@ -24,13 +24,10 @@ After understanding the chemistry of bit now i am curious about how qubits chang
 
 <!-- -  at @<a href="afterflea.com" target="_blank">After-Flea</a>. -->
 <!-- Bio -->
-- 🌱 Actively participating in coding competitions & hackathons.
-- 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/Hassu083/)** in python.
-- 🥅 2024 Goals: Contribute more to Open Source projects.
-- 📫 Approach me **hassu20083@gmail.com**.
-- 📞 Don't hesitate to reach out & let's connect and start a conversation.
-
-#
+-  Actively participating in coding competitions & hackathons.
+-  I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/Hassu083/)** in python.
+-  2024 Goals: Contribute more to Open Source projects.
+-  Approach me **hassu20083@gmail.com**.
 
 ## My Skill Set 🛠️:
 
