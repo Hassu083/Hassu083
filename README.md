@@ -7,7 +7,7 @@
 
 <br>
 
-## About me🚀:
+## About me:
 
 <br>
 
@@ -27,7 +27,7 @@ After understanding the chemistry of bit now i am curious about how qubits chang
 
 <br>
 
- ## Connect with me🤝:
+ ## Connect with me:
 
  <br>
 <div align="center">
@@ -39,7 +39,7 @@ After understanding the chemistry of bit now i am curious about how qubits chang
 
 <br>
 
- ## Github Stats📈:
+ ## Github:
  <br>
   <p align="center">
    <a href="https://github.com/Hassu083"> 
@@ -59,7 +59,7 @@ After understanding the chemistry of bit now i am curious about how qubits chang
 
 <br>
 
-## Leetcode Stats📈:
+## Leetcode Stats:
 
 <br>
  <div align="center">
@@ -68,8 +68,10 @@ After understanding the chemistry of bit now i am curious about how qubits chang
  
 <br>
 
-### Advent of Code 
+## Advent of Code 
 <br>
+
+### 2023
 <p align="center">
     <kbd>
         <img src="https://github.com/Hassu083/advent-of-code-2023/blob/master/complete.png" width="500">
