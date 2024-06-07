@@ -53,7 +53,7 @@ After understanding the chemistry of bit now i am curious about how qubits chang
 </p>
 <p align="center">
    <a href="https://github.com/Hassu083"> 
-     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hassu083&langs_count=12&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hassu083&layout=compact&langs_count=20&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
    </a>  
  </p>
 
@@ -91,7 +91,7 @@ After understanding the chemistry of bit now i am curious about how qubits chang
 </p>
 <br>
 <p align="center">
-  <a href="https://lablab.ai/event/assistants-api-llamaindex-mongodb-battle" target="_blank">
+  <a href="[https://lablab.ai/event/hello-gpt-4o-ai-challenge" target="_blank">
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fclw7myukj00013b6tq6iubd0r%2Fundefined_imageLink_iu6w770ytv.jpg&w=1080&q=75" width="390">
   </a>
   &nbsp; &nbsp;
