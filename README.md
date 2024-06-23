@@ -84,14 +84,14 @@ After understanding the chemistry of bit now i am curious about how qubits chang
 ## Completed International Hackathons:
 <br>
 <p align="center">
-  <a href="https://lablab.ai/event/assistants-api-llamaindex-mongodb-battle" target="_blank">
+  <a href="https://lablab.ai/event/assistants-api-llamaindex-mongodb-battle/john-tad/cloudtalk" target="_blank">
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fclu2gm6os00053b6rjbvm70st%2Fundefined_imageLink_ay795r0bma.jpg&w=1080&q=75" width="390">
   </a>
   &nbsp; &nbsp;
 </p>
 <br>
 <p align="center">
-  <a href="https://lablab.ai/event/hello-gpt-4o-ai-challenge" target="_blank">
+  <a href="https://lablab.ai/event/hello-gpt-4o-ai-challenge/governingai/governing-ai" target="_blank">
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fclw7myukj00013b6tq6iubd0r%2Fundefined_imageLink_iu6w770ytv.jpg&w=1080&q=75" width="390">
   </a>
   &nbsp; &nbsp;
