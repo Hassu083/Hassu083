@@ -63,7 +63,7 @@ After understanding the chemistry of bit now i am curious about how qubits chang
 
 <br>
  <div align="center">
-     <img width="70%" src="https://leetcard.jacoblin.cool/Hassu083?ext=heatmap" /> 
+     <img width="70%" src="https://leetcard.jacoblin.cool/Hassu083?ext=contest" /> 
  </div>
  
 <br>
